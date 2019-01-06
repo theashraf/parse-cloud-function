@@ -1,7 +1,6 @@
 # Parse Cloud Function
 
 [![npm](https://img.shields.io/npm/v/parse-cloud-function.svg)](https://www.npmjs.com/package/parse-cloud-function)
-![Travis](https://img.shields.io/travis/theashraf/parse-cloud-function.svg)
 [![license](https://img.shields.io/github/license/theashraf/parse-cloud-function.svg)](https://github.com/theashraf/parse-cloud-function/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/dw/parse-cloud-function.svg)](https://www.npmjs.com/package/parse-cloud-function)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
