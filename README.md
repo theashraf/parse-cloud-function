@@ -17,7 +17,7 @@ A working example can be found [here](example)
 ### Supported versions
 
 - parse-server >= 3.0.0
-- node >= 8
+- node >= 6.4
 
 ### Basic Usage
 
@@ -39,8 +39,6 @@ new CloudFunction(Parse)
 		return 'success'
 	})
 ```
-
-## Api
 
 ## Development setup
 
