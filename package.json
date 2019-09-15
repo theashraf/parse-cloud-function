@@ -31,7 +31,7 @@
 		"express": "4.16.4",
 		"husky": "3.0.5",
 		"lint-staged": "8.1.0",
-		"nodemon": "1.18.9",
+		"nodemon": "1.19.2",
 		"parse-server": "3.6.0",
 		"prettier": "1.15.3",
 		"semantic-release": "^15.13.2"
