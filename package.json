@@ -33,7 +33,7 @@
 		"lint-staged": "8.1.0",
 		"nodemon": "1.19.3",
 		"parse-server": "3.10.0",
-		"prettier": "1.15.3",
+		"prettier": "2.3.1",
 		"semantic-release": "^15.13.2"
 	},
 	"config": {
